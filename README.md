@@ -1,6 +1,6 @@
 # 🎓 Student Performance Prediction using Machine Learning
 
-## 📌 Project Overview
+# Project Overview
 
 This project aims to predict whether a student will pass or fail in mathematics based on their reading and writing scores using machine learning models.
 
@@ -8,7 +8,7 @@ The goal is to demonstrate a complete machine learning workflow including data a
 
 ---
 
-## 📊 Dataset
+# Dataset
 
 * Source: Students Performance Dataset
 * Features used:
@@ -21,7 +21,7 @@ The goal is to demonstrate a complete machine learning workflow including data a
 
 ---
 
-## ⚙️ Technologies Used
+# Technologies Used
 
 * Python
 * Pandas & NumPy
@@ -30,7 +30,7 @@ The goal is to demonstrate a complete machine learning workflow including data a
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 * Checked dataset structure and summary statistics
 * Visualized distributions of scores
@@ -39,7 +39,7 @@ The goal is to demonstrate a complete machine learning workflow including data a
 
 ---
 
-## 🤖 Models Implemented
+# Models Implemented
 
 * Logistic Regression
 * Decision Tree Classifier
@@ -47,7 +47,7 @@ The goal is to demonstrate a complete machine learning workflow including data a
 
 ---
 
-## 📈 Model Evaluation
+# Model Evaluation
 
 Models were evaluated using:
 
@@ -57,7 +57,7 @@ Models were evaluated using:
 
 ---
 
-## 🏆 Results
+# Results
 
 * Random Forest achieved the best performance
 * Hyperparameter tuning improved model accuracy
@@ -65,7 +65,7 @@ Models were evaluated using:
 
 ---
 
-## 📊 Feature Importance
+# Feature Importance
 
 Feature importance analysis revealed that:
 
@@ -74,7 +74,7 @@ Feature importance analysis revealed that:
 
 ---
 
-## 🧠 Key Insights
+# Key Insights
 
 * Students with higher reading and writing scores tend to perform better in mathematics
 * Balanced performance across subjects improves prediction accuracy
@@ -82,7 +82,7 @@ Feature importance analysis revealed that:
 
 ---
 
-## 🚀 Future Improvements
+# Future Improvements
 
 * Include more features (attendance, study hours, etc.)
 * Apply advanced models like XGBoost
